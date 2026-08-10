@@ -1,5 +1,7 @@
 # Sof.ia
 
+Assistente virtual intuitiva que abstrai as complexidades de atividades administrativas
+
 ## PROBLEMA
 
 Atividades administrativ consomem muito tempo do proficional autonomo, tirando foco de sua atividade principal.
